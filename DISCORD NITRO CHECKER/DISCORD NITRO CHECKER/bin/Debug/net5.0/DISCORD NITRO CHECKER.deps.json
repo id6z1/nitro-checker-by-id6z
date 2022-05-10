@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DISCORD NITRO CHECKER/1.0.0": {
+        "runtime": {
+          "DISCORD NITRO CHECKER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DISCORD NITRO CHECKER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
